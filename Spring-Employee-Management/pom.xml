@@ -14,7 +14,7 @@
 		<org.slf4j-version>1.7.7</org.slf4j-version>
 		<apache-dbcp.version>1.4</apache-dbcp.version>
 		<hibernate.version>4.3.6.Final</hibernate.version>
-		<mysql.version>5.1.33</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<mockito-version>1.10.8</mockito-version>
 		<assertj-version>1.7.0</assertj-version>
 	</properties>
